@@ -14,11 +14,11 @@
     "keywords": ["Drupal", "AMP", "mobile"],
     "homepage": "https://github.com/deimosindustries/amp-library",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.1 || ^8",
         "sebastian/diff": "^1.2 || ^2 || ^3 || ^4",
         "marc1706/fast-image-size": "1.*",
         "sabberworm/php-css-parser": "^8.0.0",
-        "guzzlehttp/guzzle": "~6.1",
+        "guzzlehttp/guzzle": "~6.1 || ^7.0",
         "masterminds/html5": "^2.5",
         "arthurkushman/query-path": "^3.1"
     },
